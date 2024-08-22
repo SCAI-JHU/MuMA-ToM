@@ -1,0 +1,938 @@
+{
+    "42": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For agent Jake, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Jake grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as \"grab some object\" without attempting to guess the exact one.",
+        "action": ""
+    },
+    "128": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For James, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where James grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "129": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Michael, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Michael grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "130": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Michael, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Michael grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "135": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Sarah, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Sarah grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "138": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Sarah, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Sarah grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "144": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Alex, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Alex grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "152": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Jack, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Jack grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "153": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Olivia, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Olivia grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "154": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Jake, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Jake grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "161": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For John, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where John grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "193": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For David, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where David grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "195": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Emily, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Emily grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "212": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Ben, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Ben grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "223": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Alex, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Alex grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "225": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Sean, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Sean grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "263": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Michael, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Michael grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "389": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Sophia, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Sophia grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "393": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Tom, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Tom grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "397": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Jackson, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Jackson grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "404": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Mark, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Mark grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "528": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Daniel, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Daniel grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "532": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Olivia, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Olivia grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "538": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Jane, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Jane grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "541": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Mark, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Mark grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "548": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Michael, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Michael grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "549": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Kevin, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Kevin grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "557": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Jake, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Jake grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "577": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Emma, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Emma grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "578": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For James, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where James grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "583": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For David, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where David grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "601": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Mike, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Mike grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "609": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Alex, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Alex grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "628": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Ellen, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Ellen grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "630": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Sarah, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Sarah grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "634": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For James, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where James grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "640": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Michael, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Michael grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "642": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Emma, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Emma grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "644": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Jacob, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Jacob grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "647": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Emma, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Emma grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "682": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Michael, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Michael grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "766": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Mia, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Mia grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "784": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Matt, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Matt grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "790": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Tim, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Tim grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "801": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For John, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where John grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "824": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For John, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where John grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "848": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Emily, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Emily grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "857": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Michael, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Michael grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "865": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Sara, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Sara grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "871": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Alex, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Alex grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "895": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Jenny, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Jenny grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "905": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Ethan, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Ethan grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "910": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Mia, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Mia grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "913": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Luke, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Luke grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "956": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Amelia, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Amelia grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "1131": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Michael, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Michael grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "1758": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For John, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where John grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "1811": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Olivia, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Olivia grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "1817": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Dave, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Dave grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "1818": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Michael, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Michael grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "1819": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Jack, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Jack grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "1856": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Sarah, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Sarah grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "1858": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Jake, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Jake grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "2053": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For John, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where John grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "2070": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Ethan, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Ethan grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "2462": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For James, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where James grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "2559": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Sarah, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Sarah grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3050": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Emily, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Emily grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3058": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Karen, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Karen grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3068": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Sarah, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Sarah grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3074": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Mark, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Mark grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3077": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Liam, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Liam grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3092": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Ryan, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Ryan grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3098": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Tom, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Tom grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3117": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Sophie, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Sophie grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3119": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Lisa, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Lisa grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3129": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Mark, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Mark grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3130": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For David, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where David grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3292": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Alex, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Alex grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3308": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Paul, provide details about his actions, including what objects he handles, where he obtains them from, and where he places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves his arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Paul grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "3315": {
+        "prompt": "Task: You will watch a video depicting an agent performing some actions. Your goal is to infer and describe these actions in chronological order. For Emily, provide details about her actions, including what objects she handles, where she obtains them from, and where she places them. Formulate all actions into a single line without including any newline characters. Note that when the agent moves her arm, it likely indicates opening a container or picking up an item. If you cannot decipher where Emily grabs an object from, make your best guess based on the context in the video. If the object cannot be effectively identified, refer to it as 'grab some object' without attempting to guess the exact one.",
+        "action": ""
+    },
+    "4017": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4018": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4023": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4034": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4037": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4041": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one",
+        "action": ""
+    },
+    "4043": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4054": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4057": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4059": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4063": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4070": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4077": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4078": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4081": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4083": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4098": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4103": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4105": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4106": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4124": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4145": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4150": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4162": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4166": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4172": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4184": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4190": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4198": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4200": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4224": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4284": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one",
+        "action": ""
+    },
+    "4324": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4327": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4328": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4329": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4331": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4334": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4338": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4343": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4367": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4369": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4370": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4372": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4374": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4385": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4416": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4419": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4423": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4429": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4439": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4441": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4449": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4452": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4453": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4469": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4473": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4482": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4485": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4487": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4488": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4490": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4499": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4505": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4506": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4510": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4512": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4519": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4520": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4525": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4540": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4542": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4546": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4552": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4556": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4559": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4567": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4568": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4575": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Sarah, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Sarah grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4594": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4604": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4606": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4618": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4623": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4641": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4656": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4658": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5010": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5017": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5039": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5042": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5068": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5080": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5084": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5091": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5095": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5099": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5103": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5105": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5121": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5138": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5154": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5165": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For John, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that John grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5173": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5175": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5197": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5302": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5379": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5381": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Michael, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Michael grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5509": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Kevin, provide details about his actions, including what objects he handled, where he obtained them from, and where he placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Kevin grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4005": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4009": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4047": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4101": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4102": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4113": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Sarah, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Sarah grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4117": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4123": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Sarah, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Sarah grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4133": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4140": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4160": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4164": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4173": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4176": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4178": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4280": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4285": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4312": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4332": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4365": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4375": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4415": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4458": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4463": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4526": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4527": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4529": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4551": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4560": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4576": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4584": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4621": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4667": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5014": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5049": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5082": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Sarah, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Sarah grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5093": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5098": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5123": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Sarah, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Sarah grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5126": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5127": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "5163": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Mary, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Mary grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    },
+    "4455": {
+        "prompt": "Task: You will watch a video depicting two agents performing some actions. Your goal is to infer and describe the actions in chronological order. For Jessica, provide details about her actions, including what objects she handled, where she obtained them from, and where she placed them. Formulate all actions into a single line. Do not include any newline characters. Note that an agent moving their arm probably indicates opening a container or picking up an item. If you cannot decipher the location that Jessica grabs from, make your best guess based on all the context in the video. If you cannot effectively identify the object, just leave it as \"grab some object\" without trying to guess the exact one.",
+        "action": ""
+    }
+}
