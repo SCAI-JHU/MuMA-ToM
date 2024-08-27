@@ -21,7 +21,7 @@ For visual action extraction, please upload each video to the Google AI studio. 
 Afterward, directly run LIMP.py.
 
 ## MuMA-ToM benchmark
-MuMA-ToM benchmark is stored on the huggingface. Here is the [link](https://huggingface.co/datasets/MichaelYe/MUMA-TOM-BENCHMARK/tree/main)
+MuMA-ToM benchmark is stored on the huggingface. Here is the [link](https://huggingface.co/datasets/SCAI-JHU/MUMA-TOM-BENCHMARK/tree/main)
 
 In the dataset, "questions.json" and "texts.json" contains question text and multimodal textual input text for our benchmark. "Videos" folder contains all the RGB videos for our benchmark. "full episode descriptions" folder contains GPT generated description of our interactive scenarios with ground-truth actions and utterances.
 
