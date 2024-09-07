@@ -29,3 +29,15 @@ We also generate a training set containing a thousand videos for multi-agent int
 
 If you need instance segmentation and depth images to conduct further experiments, please contact us. The visual analysis result for generating scene graphs using instance segmentation is stored in the "visual data" folder.
 
+## Citation
+Please cite the paper and star this repo if you find it interesting/useful, thanks!
+
+```bibtex
+@article{shi2024muma,
+  title={MuMA-ToM: Multi-modal Multi-Agent Theory of Mind},
+  author={Shi, Haojun and Ye, Suyu and Fang, Xinyu and Jin, Chuanyang and Isik, Layla and Kuo, Yen-Ling and Shu, Tianmin},
+  journal={arXiv preprint arXiv:2408.12574},
+  year={2024}
+}
+```
+
