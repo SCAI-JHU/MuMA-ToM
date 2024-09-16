@@ -2,7 +2,7 @@
 
 ![intro](figures/question_types.png)
 
-This repo features the code for the paper [**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**]
+This repo features the code for the paper [**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**](https://arxiv.org/abs/2408.12574).
 
 It contains:
 * Instructions for utilizing the MuMA-ToM Benchmark
