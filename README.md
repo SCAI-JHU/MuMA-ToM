@@ -35,7 +35,7 @@ Please cite the paper and star this repo if you find it interesting/useful, than
 ```bibtex
 @article{shi2024muma,
   title={MuMA-ToM: Multi-modal Multi-Agent Theory of Mind},
-  author={Shi, Haojun and Ye, Suyu and Fang, Xinyu and Jin, Chuanyang and Isik, Layla and Kuo, Yen-Ling and Shu, Tianmin},
+  author={Shi, Haojun and Ye, Suyu and Fang, Xinyu and Jin, Chuanyang and Isik, Leyla and Kuo, Yen-Ling and Shu, Tianmin},
   journal={arXiv preprint arXiv:2408.12574},
   year={2024}
 }
