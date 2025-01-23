@@ -1,5 +1,5 @@
-## MuMA-ToM: Multi-modal Multi-Agent Theory of Mind
-
+# MuMA-ToM: Multi-modal Multi-Agent Theory of Mind  <br> <sub> 🚀 AAAI 25 Oral Presentation 🎤 </sub>
+### [Paper](https://arxiv.org/abs/2408.12574) | [Project Page](https://scai.cs.jhu.edu/projects/MuMA-ToM/) | [Dataset](https://huggingface.co/datasets/SCAI-JHU/MUMA-TOM-BENCHMARK)<br><br>
 ![intro](figures/question_types.png)
 
 This repo features the code for the paper [**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**](https://arxiv.org/abs/2408.12574).
