@@ -33,11 +33,14 @@ If you need instance segmentation and depth images to conduct further experiment
 Please cite the paper and star this repo if you find it interesting/useful, thanks!
 
 ```bibtex
-@article{shi2024muma,
-  title={MuMA-ToM: Multi-modal Multi-Agent Theory of Mind},
+@inproceedings{shi2025muma,
+  title={Muma-tom: Multi-modal multi-agent theory of mind},
   author={Shi, Haojun and Ye, Suyu and Fang, Xinyu and Jin, Chuanyang and Isik, Leyla and Kuo, Yen-Ling and Shu, Tianmin},
-  journal={arXiv preprint arXiv:2408.12574},
-  year={2024}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={2},
+  pages={1510--1519},
+  year={2025}
 }
 ```
 
